@@ -1,0 +1,14 @@
+name: geoskill-lidar-canopy-structure
+display_name: LiDAR 冠层结构分析
+description: |
+  CHM冠层高度模型+局部峰值单木检测与树高冠幅提取
+version: 0.1.0
+author: Mavis
+entrypoint: geoskill-lidar-canopy-structure.py
+runtime: python>=3.9
+tags:
+  - extraction
+  - gis
+  - lidar
+  - point-cloud
+  - remote-sensing
